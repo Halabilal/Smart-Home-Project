@@ -22,7 +22,7 @@
 ### •	Sensors: DHT11, MPU6050, DS18B20, Ultrasonic, PIR.
 ### •	Machine Learning: TensorFlow and Keras for emotion and gesture recognition.
 ### •	Programming Languages: Python (for ML models) and Arduino C++.
-### •	Development Environment: Spyder IDE, Arduino IDE.
+### •	Development Environment: Spyder IDE, jupyter notebook, Arduino IDE.
 
 ## Hardware Components
 ### •	Arduino Mega: Primary control board.
